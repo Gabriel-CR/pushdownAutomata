@@ -1,0 +1,23 @@
+>>>>>>>>
+2
+2
+a b
+2
+Z X
+1
+Z
+1
+0
+7
+1 1 a Z XZ
+1 1 a X XX
+1 1 b X X
+1 0 e X e
+0 0 e X e
+0 0 b X XX
+0 0 b Z e
+ab
+========
+(1, ab, Z; (1, b, XZ; (1, e, XZ; (0, e, Z)); (0, b, Z; (0, e, e))))
+aceita
+<<<<<<<<

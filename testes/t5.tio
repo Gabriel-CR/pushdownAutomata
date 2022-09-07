@@ -1,0 +1,23 @@
+>>>>>>>>
+2
+2
+a b
+2
+Z X
+1
+Z
+1
+0
+7
+1 1 a Z XZ
+1 1 a X XX
+1 1 b X X
+1 0 e X e
+0 0 e X e
+0 0 b X XX
+0 0 b Z e
+aabb
+========
+(1, aabb, Z; (1, abb, XZ; (1, bb, XXZ; (1, b, XXZ; (1, e, XXZ; (0, e, XZ; (0, e, Z))); (0, b, XZ; (0, b, Z; (0, e, e)); (0, e, XXZ; (0, e, XZ; (0, e, Z))))); (0, bb, XZ; (0, bb, Z; (0, b, e)); (0, b, XXZ; (0, b, XZ; (0, b, Z; (0, e, e)); (0, e, XXZ; (0, e, XZ; (0, e, Z)))); (0, e, XXXZ; (0, e, XXZ; (0, e, XZ; (0, e, Z))))))); (0, abb, Z)))
+aceita
+<<<<<<<<
